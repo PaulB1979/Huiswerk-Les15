@@ -1,0 +1,19 @@
+body {
+  background-color:darkseagreen ;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: #333;
+  color: white;
+}
